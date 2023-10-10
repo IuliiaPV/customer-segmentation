@@ -72,7 +72,7 @@ To use this project:
 2. Install the required libraries and dependencies using `pip install -r requirements.txt`.
 3. Fill `.env.example` file with your data and save as .env.
 4. Run the provided Jupyter notebooks in the following order:
-   - `data-cleaning.ipynb`
-   - `customer-segmentation.ipynb`
-   - `customer-segmentation-analysis.ipynb`
-   - `cohort-retention-analysis.ipynb`
+   - [data-cleaning.ipynb](notebooks/data-cleaning.ipynb)
+   - [customer-segmentation.ipynb](notebooks/customer-segmentation.ipynb)
+   - [customer-segmentation-analysis.ipynb](notebooks/customer-segmentation-analysis.ipynb)
+   - [cohort-retention-analysis.ipynb](notebooks/cohort-retention-analysis.ipynb)
