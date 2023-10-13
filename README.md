@@ -1,4 +1,4 @@
-# Customer Segmentation Project Retention Analysis Project
+# Customer Segmentation and Retention Analysis Project
 by Iuliia Popova
 
 ## Overview
